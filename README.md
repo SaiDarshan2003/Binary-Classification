@@ -49,7 +49,7 @@ pyplot.show()
 ```
 
 ## Output:
-![binary classification plot](/02.png)
+![binary classification plot](1.png)
 
 ## Result:
 Thus the python program performed binary classification successfully
